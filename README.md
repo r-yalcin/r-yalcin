@@ -14,7 +14,7 @@
     rezan&nbsp;
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/verified-dark.svg">
-      <img src="assets/verified-light.svg" height="28" style="vertical-align: text-bottom;" alt="✓" />
+      <img src="assets/verified-light.svg" height="22" style="vertical-align: middle;" alt="✓" />
     </picture>
   </h1>
 
@@ -78,6 +78,10 @@
   <!-- ── FOOTER ────────────────────────────────────────────────────── -->
 
   <sub style="color: #6b7280; font-family: monospace;">© 2026 r-yalcin · Engineered for performance.</sub>
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=r-yalcin&style=flat&color=6b7280&label=views" height="18" alt="Profile Views" />
 
   <br />
   <br />
