@@ -23,7 +23,6 @@
     </picture>
   </a>
 
-  <br />
 
   <!-- SEPARATOR -->
 
@@ -56,13 +55,15 @@
 
   <!-- CONTACT -->
 
+  <br />
+
   <p>
     <a href="mailto:contact@rezanyalcin.de">
-      <img src="https://img.shields.io/badge/Email-Priority_Contact-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" height="40" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Priority_Contact-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" height=35" alt="Email" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/message/3IKELGHHR5YDH1">
-      <img src="https://img.shields.io/badge/WhatsApp-Direct_Line-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Direct_Line-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
     </a>
   </p>
 
