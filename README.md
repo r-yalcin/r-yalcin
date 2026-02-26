@@ -6,7 +6,7 @@
 
   <!-- NAME -->
 
-  <h1>
+  <h1 style="margin:-10;">
     rezan&nbsp;
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/verified-dark.svg">
@@ -19,7 +19,7 @@
   <a href="https://github.com/r-yalcin">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=E2E8F0&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer;Architecting+Scalable+Systems;Precision+in+Every+Commit;Shipping+Excellence.">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=1A1A2E&background=00000000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Precision+in+Every+Commit;Shipping+Excellence." alt="Typing Animation" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=1A1A2E&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer;Architecting+Scalable+Systems;Precision+in+Every+Commit;Shipping+Excellence." alt="Typing Animation" />
     </picture>
   </a>
 
