@@ -28,10 +28,6 @@
   </a>
 
   <br />
-
-  <img src="https://komarev.com/ghpvc/?username=r-yalcin&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" height="25" alt="Profile Views" />
-
-  <br />
   <br />
 
   <!-- ── SEPARATOR ─────────────────────────────────────────────────── -->
@@ -45,32 +41,15 @@
 
   <h3><samp>Core Technologies & Architecture</samp></h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,bun,docker,aws,figma&theme=dark&perline=8">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,bun,docker,aws,figma&theme=light&perline=8" alt="Tech Stack" />
-  </picture>
-
-  <br />
-  <br />
-
-  <!-- ── SEPARATOR ─────────────────────────────────────────────────── -->
-
-  <img src="assets/gradient-line.svg" width="100%" alt="" />
-
-  <br />
-  <br />
-
-  <!-- ── GITHUB STATS ──────────────────────────────────────────────── -->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=r-yalcin&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&ring_color=ec4899">
-    <img src="https://github-readme-stats.vercel.app/api?username=r-yalcin&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=8b5cf6&text_color=24292f&ring_color=ec4899" width="49%" alt="GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=r-yalcin&hide_border=true&background=00000000&ring=8b5cf6&fire=ec4899&currStreakLabel=e2e8f0&sideLabels=c9d1d9&currStreakNum=e2e8f0&sideNums=c9d1d9&dates=6b7280">
-    <img src="https://streak-stats.demolab.com/?user=r-yalcin&hide_border=true&background=00000000&ring=6366f1&fire=ec4899&currStreakLabel=1a1a2e&sideLabels=24292f&currStreakNum=1a1a2e&sideNums=24292f&dates=6b7280" width="49%" alt="GitHub Streak" />
-  </picture>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=6366f1" height="30" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/REACT_&_NEXT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=7c3aed" height="30" alt="React & Next.js" />
+    <img src="https://img.shields.io/badge/NODE.JS_&_BUN-339933?style=for-the-badge&logo=node.js&logoColor=white&color=8b5cf6" height="30" alt="Node.js & Bun" />
+    <img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&color=9333ea" height="30" alt="Cloud Architecture" />
+    <img src="https://img.shields.io/badge/SYSTEM_DESIGN-FF4F8B?style=for-the-badge&logo=figma&logoColor=white&color=a855f7" height="30" alt="System Design" />
+    <img src="https://img.shields.io/badge/API_ENGINEERING-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=c026d3" height="30" alt="API Engineering" />
+    <img src="https://img.shields.io/badge/CI%2FCD_&_DEVOPS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=ec4899" height="30" alt="CI/CD & DevOps" />
+  </p>
 
   <br />
   <br />
