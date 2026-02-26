@@ -14,7 +14,7 @@
     rezan&nbsp;
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/verified-dark.svg">
-      <img src="assets/verified-light.svg" height="22" style="vertical-align: middle;" alt="✓" />
+      <img src="assets/verified-light.svg" height="20" style="vertical-align: middle;" alt="✓" />
     </picture>
   </h1>
 
