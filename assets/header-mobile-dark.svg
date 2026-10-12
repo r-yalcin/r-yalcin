@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Rezan Yalçin</title>
+  <desc id="desc">I like building useful things. A simple orbital code symbol with one slowly moving arc.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .orbit { transform-origin: 465px 115px; animation: orbit 32s linear infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .orbit { animation:none; } }
+  </style>
+  <rect x=".5" y=".5" width="599" height="229" rx="16" fill="#11161d" stroke="#29313c"/>
+  <text x="28" y="122" fill="#f0f3f6" font-size="84" letter-spacing="-4.5" font-weight="650">rezan</text>
+  <text x="32" y="166" fill="#f0f3f6" font-size="21" letter-spacing="-.4">I like building useful things.</text>
+  <g transform="translate(465 115) scale(.86) translate(-465 -115)">
+  <g stroke="#37434f" stroke-width="1">
+    <circle cx="465" cy="115" r="80"/>
+    <ellipse cx="465" cy="115" rx="108" ry="35" transform="rotate(-30 465 115)"/>
+    <ellipse cx="465" cy="115" rx="108" ry="35" transform="rotate(30 465 115)"/>
+  </g>
+  <circle class="orbit" cx="465" cy="115" r="80" stroke="#83b8f9" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="64 438.655"/>
+  <g stroke="#f0f3f6" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M435 97L417 115L435 133M495 97L513 115L495 133"/>
+    <path d="M474 89L456 141" stroke="#83b8f9"/>
+  </g>
+  </g>
+</svg>

@@ -1,86 +1,54 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/header-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Rezan Yalçin — I like building useful things.">
+</picture>
 
-  <!-- HEADER -->
+<br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=150&section=header&animation=twinkling" width="100%" alt="Header" />
+**Student & software developer from Germany.**
 
-  <!-- NAME -->
+### Focus
 
-  <h1 style="margin:-10;">
-    rezan&nbsp;
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/verified-dark.svg">
-      <img src="assets/verified-light.svg" height="20" style="vertical-align: middle;" alt="✓" />
-    </picture>
-  </h1>
+I’m interested in web apps, product development and AI. I like learning by building things and trying out new ideas.
 
-  <!-- TYPING ANIMATION -->
+### Technologies
 
-  <a href="https://github.com/r-yalcin">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=E2E8F0&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer;Architecting+Scalable+Systems;Precision+in+Every+Commit;Shipping+Excellence.">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=1A1A2E&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer;Architecting+Scalable+Systems;Precision+in+Every+Commit;Shipping+Excellence." alt="Typing Animation" />
-    </picture>
-  </a>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-typescript-dark.svg">
+    <img src="assets/tech-typescript-light.svg" height="34" alt="TypeScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-react-dark.svg">
+    <img src="assets/tech-react-light.svg" height="34" alt="React">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nextjs-dark.svg">
+    <img src="assets/tech-nextjs-light.svg" height="34" alt="Next.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-tailwind-dark.svg">
+    <img src="assets/tech-tailwind-light.svg" height="34" alt="Tailwind CSS">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-dark.svg">
+    <img src="assets/tech-nodejs-light.svg" height="34" alt="Node.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-bun-dark.svg">
+    <img src="assets/tech-bun-light.svg" height="34" alt="Bun">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-postgresql-dark.svg">
+    <img src="assets/tech-postgresql-light.svg" height="34" alt="PostgreSQL">
+  </picture>
+</p>
 
+---
 
-  <!-- SEPARATOR -->
+### Let's connect
 
-  <img src="assets/gradient-line.svg" width="100%" alt="" />
-
-  <br />
-
-
-  <!-- TECH STACK -->
-  
-  <br />
-
-  <h3><samp>Core Technologies & Architecture</samp></h3>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=6366f1" height="30" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/REACT_&_NEXT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=7c3aed" height="30" alt="React & Next.js" />
-    <img src="https://img.shields.io/badge/NODE.JS_&_BUN-339933?style=for-the-badge&logo=node.js&logoColor=white&color=8b5cf6" height="30" alt="Node.js & Bun" />
-    <img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&color=9333ea" height="30" alt="Cloud Architecture" />
-    <img src="https://img.shields.io/badge/SYSTEM_DESIGN-FF4F8B?style=for-the-badge&logo=figma&logoColor=white&color=a855f7" height="30" alt="System Design" />
-    <img src="https://img.shields.io/badge/API_ENGINEERING-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=c026d3" height="30" alt="API Engineering" />
-    <img src="https://img.shields.io/badge/CI%2FCD_&_DEVOPS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=ec4899" height="30" alt="CI/CD & DevOps" />
-  </p>
-
-  <br />
-
-  <!-- SEPARATOR -->
-
-  <img src="assets/gradient-line.svg" width="100%" alt="" />
-
-  <br />
-
-  <!-- CONTACT -->
-
-  <br />
-
-  <p>
-    <a href="mailto:contact@rezanyalcin.de">
-      <img src="https://img.shields.io/badge/Email-Priority_Contact-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" height=35" alt="Email" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/message/3IKELGHHR5YDH1">
-      <img src="https://img.shields.io/badge/WhatsApp-Direct_Line-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
-    </a>
-  </p>
-
-  <br />
-
-  <!-- FOOTER -->
-
-  <sub style="color: #6b7280; font-family: monospace;">© 2026 r-yalcin · Engineered for performance.</sub>
-
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=r-yalcin&style=flat&color=6b7280&label=views" height="18" alt="Profile Views" />
-
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
-
-</div>
+[Email](mailto:contact@rezanyalcin.de) &nbsp;·&nbsp; [WhatsApp](https://wa.me/message/3IKELGHHR5YDH1) &nbsp;·&nbsp; [GitHub](https://github.com/r-yalcin)

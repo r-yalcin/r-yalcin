@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="34" viewBox="0 0 100 34" role="img" aria-label="Next.js">
+  <title>Next.js</title>
+  <rect x="2.5" y="2.5" width="95" height="29" rx="7" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <g transform="translate(12 9)"><circle cx="8" cy="8" r="7.2" fill="none" stroke="#59636e" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 11V5l6 6V5" fill="none" stroke="#59636e" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="37" y="21.8" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">Next.js</text>
+</svg>

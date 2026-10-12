@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="34" viewBox="0 0 104 34" role="img" aria-label="Node.js">
+  <title>Node.js</title>
+  <rect x="2.5" y="2.5" width="99" height="29" rx="7" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <g transform="translate(12 9)"><path d="M8 .8l6.3 3.6v7.2L8 15.2l-6.3-3.6V4.4Z" fill="none" stroke="#59636e" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.1 10.8V5.2l5.8 5.6V5.2" fill="none" stroke="#59636e" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="37" y="21.8" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">Node.js</text>
+</svg>
