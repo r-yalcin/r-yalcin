@@ -8,7 +8,7 @@
 
 <br>
 
-**Student & software developer from Germany.**
+### Student & software developer from Germany.
 
 ### Focus
 
